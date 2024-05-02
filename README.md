@@ -1,0 +1,1 @@
+I created the code through REMIX Ethereum/Solidity IDE but cant figure out how to share that code with you, so put the main contract into this Github!
