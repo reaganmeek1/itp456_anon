@@ -9,6 +9,7 @@ contract GroupChat {
         uint256 minBalance;
         uint256 maxBalance;
         address[] members;
+        
     }
 
     //groups private to keep anon
